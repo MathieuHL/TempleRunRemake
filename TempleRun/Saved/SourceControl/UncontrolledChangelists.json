@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/Actions/IA_Turn.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/Actions/IA_Slide.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/Actions/IA_DebugRun.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/Levels/MainLevel.umap",
+				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+			]
+		}
+	]
+}
