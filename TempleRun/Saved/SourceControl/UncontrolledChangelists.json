@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MV/BUUM8HJ4Q7MWT6WOKJK6ET.uasset",
+				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LO/NF60BUK1XWH70BGKBNECYQ.uasset",
+				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
@@ -30,7 +34,6 @@
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Travaux/Jeux/TempleRun/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
