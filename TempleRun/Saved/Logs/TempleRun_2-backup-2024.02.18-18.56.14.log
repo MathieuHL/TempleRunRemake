@@ -1,0 +1,1573 @@
+﻿Log file open, 02/18/24 19:13:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=7284)
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: TempleRun
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCore: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot'
+LogCore: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.2-CL-26001984"
+LogCsvProfiler: Display: Metadata set : engineversion="5.2.1-26001984+++UE5+Release-5.2"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.4046] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Travaux\Jeux\TempleRunRemake\TempleRun\TempleRun.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="8073735646c3defccac896817237cf74"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.440827
+LogPluginManager: Adding extension module BinkMediaPlayer from BinkMedia_HoloLens to BinkMedia
+
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B34F022646752D906A0F039252692F6C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GLTFImporter
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Found config from plugin[InputDebugging] Input
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+LogWindows: File 'WinPixGpuCapturer.dll' does not exist
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+LogInit: Using libcurl 7.83.1
+LogInit:  - built for Windows
+LogInit:  - supports SSL with OpenSSL/1.1.1n
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.12
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: ExecutableName: UnrealEditor.exe
+LogInit: Build: ++UE5+Release-5.2-CL-26001984
+LogInit: Engine Version: 5.2.1-26001984+++UE5+Release-5.2
+LogInit: Compatible Engine Version: 5.2.0-25360045+++UE5+Release-5.2
+LogInit: Net CL: 25360045
+LogInit: OS: Windows 10 (22H2) [10.0.19045.4046] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jun 15 2023 04:29:42
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.29.30151.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.2
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_5.2/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 83
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 6
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 104
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2024.02.18-18.14.08:367][  0]LogConfig: Set CVar [[r.VSync:0]]
+[2024.02.18-18.14.08:367][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
+[2024.02.18-18.14.08:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.02.18-18.14.08:402][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.02.18-18.14.08:402][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.02.18-18.14.08:402][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2024.02.18-18.14.08:402][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.02.18-18.14.08:402][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2024.02.18-18.14.08:402][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2024.02.18-18.14.08:402][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2024.02.18-18.14.08:402][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+[2024.02.18-18.14.08:691][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[r.Mobile.EnableNoPrecomputedLightingCSMShader:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.02.18-18.14.08:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.VerifyGCObjectNames:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Set CVar [[gc.PendingKillEnabled:1]]
+[2024.02.18-18.14.08:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.02.18-18.14.08:692][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.History.GrandReprojection:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:70.711]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.18-18.14.10:415][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.18-18.14.10:416][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.02.18-18.14.10:577][  0]LogConfig: CVar [[fx.Niagara.QualityLevel:3]] deferred - dummy variable created
+[2024.02.18-18.14.10:577][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.02.18-18.14.10:577][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.18-18.14.10:577][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.02.18-18.14.10:577][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.02.18-18.14.12:063][  0]LogRHI: Using Default RHI: D3D12
+[2024.02.18-18.14.12:063][  0]LogRHI: Using Highest Feature Level of D3D12: SM6
+[2024.02.18-18.14.12:063][  0]LogRHI: Loading RHI module D3D12RHI
+[2024.02.18-18.14.13:109][  0]LogD3D12RHI: Aftermath initialized
+[2024.02.18-18.14.13:109][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.02.18-18.14.13:109][  0]LogRHI: Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+[2024.02.18-18.14.14:445][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 SUPER (VendorId: 10de, DeviceId: 1e84, SubSysId: 139f10de, Revision: 00a1
+[2024.02.18-18.14.14:446][  0]LogD3D12RHI:   Max supported Feature Level 12_2, shader model 6.7, binding tier 3, wave ops supported, atomic64 supported
+[2024.02.18-18.14.14:446][  0]LogD3D12RHI:   Adapter has 8003MB of dedicated video memory, 0MB of dedicated system memory, and 8159MB of shared system memory, 2 output[s]
+[2024.02.18-18.14.14:470][  0]LogD3D12RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2024.02.18-18.14.14:470][  0]LogD3D12RHI:      Driver Date: 6-8-2023
+[2024.02.18-18.14.14:515][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (VendorId: 1414, DeviceId: 008c, SubSysId: 0000, Revision: 0000
+[2024.02.18-18.14.14:515][  0]LogD3D12RHI:   Max supported Feature Level 12_1, shader model 6.2, binding tier 3, wave ops supported, atomic64 unsupported
+[2024.02.18-18.14.14:515][  0]LogD3D12RHI:   Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8159MB of shared system memory, 0 output[s]
+[2024.02.18-18.14.14:515][  0]LogD3D12RHI: DirectX Agility SDK runtime found.
+[2024.02.18-18.14.14:515][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.02.18-18.14.14:515][  0]LogRHI: RHI D3D12 with Feature Level SM6 is supported and will be used.
+[2024.02.18-18.14.14:515][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.02.18-18.14.14:536][  0]LogHAL: Display: Platform has ~ 16 GB [17111162880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.18-18.14.14:881][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.02.18-18.14.14:881][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.18-18.14.15:023][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.18-18.14.15:059][  0]LogConfig: Set CVar [[r.DumpShaderDebugInfo:2]]
+[2024.02.18-18.14.15:059][  0]LogConfig: Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.18-18.14.15:059][  0]LogConfig: Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.18-18.14.15:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.02.18-18.14.15:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/Editor.ini]
+[2024.02.18-18.14.15:184][  0]LogInit: Computer: DESKTOP-TO5NTQE
+[2024.02.18-18.14.15:184][  0]LogInit: User: mhoar
+[2024.02.18-18.14.15:184][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.02.18-18.14.15:184][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.18-18.14.15:270][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.02.18-18.14.15:270][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.02.18-18.14.15:270][  0]LogMemory: Process Physical Memory: 488.17 MB used, 500.18 MB peak
+[2024.02.18-18.14.15:270][  0]LogMemory: Process Virtual Memory: 467.96 MB used, 473.45 MB peak
+[2024.02.18-18.14.15:270][  0]LogMemory: Physical Memory: 13115.78 MB used,  3202.70 MB free, 16318.48 MB total
+[2024.02.18-18.14.15:270][  0]LogMemory: Virtual Memory: 21109.64 MB used,  30024.83 MB free, 51134.48 MB total
+[2024.02.18-18.14.15:270][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.02.18-18.14.15:308][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.18-18.14.17:459][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.02.18-18.14.18:246][  0]LogInit: Using OS detected language (fr-FR).
+[2024.02.18-18.14.18:246][  0]LogInit: Using OS detected locale (fr-FR).
+[2024.02.18-18.14.19:089][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2024.02.18-18.14.19:130][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2024.02.18-18.14.19:130][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2024.02.18-18.14.19:130][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2024.02.18-18.14.19:130][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2024.02.18-18.14.19:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2024.02.18-18.14.19:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2024.02.18-18.14.19:201][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2024.02.18-18.14.19:317][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.18-18.14.20:100][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.02.18-18.14.20:100][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2024.02.18-18.14.20:100][  0]LogWindowsTextInputMethodSystem:   - Anglais (États-Unis) - (Keyboard).
+[2024.02.18-18.14.20:100][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.02.18-18.14.24:434][  0]LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+[2024.02.18-18.14.24:434][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.18-18.14.31:991][  0]LogRHI: Using Default RHI: D3D12
+[2024.02.18-18.14.31:991][  0]LogRHI: Using Highest Feature Level of D3D12: SM6
+[2024.02.18-18.14.31:991][  0]LogRHI: Loading RHI module D3D12RHI
+[2024.02.18-18.14.31:991][  0]LogRHI: Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+[2024.02.18-18.14.31:991][  0]LogRHI: RHI D3D12 with Feature Level SM6 is supported and will be used.
+[2024.02.18-18.14.32:045][  0]LogD3D12RHI: Display: Creating D3D12 RHI with Max Feature Level SM6
+[2024.02.18-18.14.32:177][  0]LogWindows: Attached monitors:
+[2024.02.18-18.14.32:177][  0]LogWindows:     resolution: 1920x1080, work area: (3840, 499) -> (5760, 1539), device: '\\.\DISPLAY1'
+[2024.02.18-18.14.32:177][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2100), device: '\\.\DISPLAY2' [PRIMARY]
+[2024.02.18-18.14.32:177][  0]LogWindows: Found 2 attached monitors.
+[2024.02.18-18.14.32:177][  0]LogWindows: Gathering driver information using Windows Setup API
+[2024.02.18-18.14.32:204][  0]LogRHI: RHI Adapter Info:
+[2024.02.18-18.14.32:204][  0]LogRHI:             Name: NVIDIA GeForce RTX 2070 SUPER
+[2024.02.18-18.14.32:204][  0]LogRHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2024.02.18-18.14.32:204][  0]LogRHI:      Driver Date: 6-8-2023
+[2024.02.18-18.14.32:308][  0]LogD3D12RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.18-18.14.32:324][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.02.18-18.14.32:496][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.02.18-18.14.32:496][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device8 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device9 is supported.
+[2024.02.18-18.14.32:654][  0]LogD3D12RHI: ID3D12Device10 is supported.
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: Bindless resources are supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: Stencil ref from pixel shader is not supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: Wave Operations are supported (wave size: min=32 max=32).
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 and bindless resources are supported.
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.02.18-18.14.32:698][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.02.18-18.14.32:904][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (3D)
+[2024.02.18-18.14.32:904][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Copy)
+[2024.02.18-18.14.32:904][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Compute)
+[2024.02.18-18.14.33:016][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.02.18-18.14.33:016][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.02.18-18.14.33:018][  0]LogRHI: Texture pool is 4558 MB (70% of 6511 MB)
+[2024.02.18-18.14.33:018][  0]LogD3D12RHI: Async texture creation enabled
+[2024.02.18-18.14.33:018][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.02.18-18.14.38:883][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyReport_0.log" -log="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyLog_0.log" -project="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject"  -platform=all'
+[2024.02.18-18.14.38:884][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/UE_5.2/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyReport_0.log" -log="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyLog_0.log" -project="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject"  -platform=all" ]
+[2024.02.18-18.14.39:580][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2024.02.18-18.14.39:580][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2024.02.18-18.14.39:580][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2024.02.18-18.14.39:580][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2024.02.18-18.14.39:580][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2024.02.18-18.14.39:580][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.8
+[2024.02.18-18.14.39:580][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.02.18-18.14.39:893][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.02.18-18.14.40:130][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.02.18-18.14.40:187][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.02.18-18.14.40:257][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.18-18.14.43:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.18-18.14.44:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.02.18-18.14.44:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.02.18-18.14.44:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.18-18.14.44:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.18-18.14.44:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.18-18.14.44:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.02.18-18.14.44:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.18-18.14.44:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.18-18.14.44:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.02.18-18.14.44:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.02.18-18.14.44:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.02.18-18.14.44:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.18-18.14.44:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.18-18.14.45:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.18-18.14.45:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.02.18-18.14.45:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.18-18.14.45:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.18-18.14.45:330][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.02.18-18.14.45:847][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.18-18.14.46:207][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.02.18-18.14.46:207][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.02.18-18.14.46:207][  0]LogTargetPlatformManager:   ADPCM
+[2024.02.18-18.14.46:207][  0]LogTargetPlatformManager:   PCM
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager:   BINKA
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager:   OGG
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.02.18-18.14.46:284][  0]LogTargetPlatformManager:   OPUS
+[2024.02.18-18.14.48:065][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.02.18-18.14.48:257][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.02.18-18.14.48:477][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.02.18-18.14.48:478][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.02.18-18.14.48:478][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2024.02.18-18.14.48:666][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.18-18.14.48:666][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.02.18-18.14.48:666][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.18-18.14.48:666][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.02.18-18.14.49:000][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2145 MiB)
+[2024.02.18-18.14.49:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.18-18.14.49:003][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.02.18-18.14.49:124][  0]LogDerivedDataCache: Speed tests for C:/Users/mhoar/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.12 seconds
+[2024.02.18-18.14.49:124][  0]LogDerivedDataCache: Display: Performance to C:/Users/mhoar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=18.34MBs, RandomWriteSpeed=228.08MBs. Assigned SpeedClass 'Local'
+[2024.02.18-18.14.49:125][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mhoar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.18-18.14.49:125][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.18-18.14.49:125][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.02.18-18.14.49:158][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2024.02.18-18.14.49:158][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2024.02.18-18.14.49:210][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.02.18-18.14.49:210][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.02.18-18.14.50:876][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/Shaders/WorkingDirectory/7332/).
+[2024.02.18-18.14.50:876][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mhoar/AppData/Local/Temp/UnrealShaderWorkingDir/FA8748D4486FC57952CAA988D5628866/'.
+[2024.02.18-18.14.50:878][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.02.18-18.14.50:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2024.02.18-18.15.04:294][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.02.18-18.15.08:836][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2024.02.18-18.15.08:836][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.18-18.15.16:932][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.18-18.15.17:058][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.18-18.15.18:691][  0]LogAssetRegistry: FAssetRegistry took 0.1314 seconds to start up
+[2024.02.18-18.15.19:097][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.02.18-18.15.48:589][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.02.18-18.15.49:222][  0]LogDeviceProfileManager: Available device profiles:
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C04A00][000005A78C5A4800 52] GlobalDefaults, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C04200][000005A78DFE5000 52] Windows, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05000][000005A78DFE0000 52] WindowsEditor, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05200][000005A78DFE2800 52] WindowsServer, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05400][000005A78C597800 52] WindowsClient, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05600][000005A78849A000 52] IOS, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05800][000005A78BD0C800 52] iPadAir2, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05A00][000005A776C27800 52] IPadPro, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05C00][000005A798FE0000 52] iPadAir3, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C05E00][000005A798FE2800 52] iPadAir4, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06000][000005A798FE5000 52] iPadAir5, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06200][000005A798FE7800 52] iPadMini4, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06400][000005A798FEA000 52] iPadMini5, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06600][000005A798FEC800 52] iPadMini6, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06800][000005A798FF0000 52] iPhone6S, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06A00][000005A798FF2800 52] iPhone7, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06C00][000005A798FF5000 52] iPodTouch7, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C06E00][000005A798FF7800 52] iPhone6SPlus, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07000][000005A798FFA000 52] iPhone7Plus, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07200][000005A798FFC800 52] iPhoneSE, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07400][000005A799190000 52] iPhone8, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07600][000005A799192800 52] iPhone8Plus, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07800][000005A799195000 52] iPhoneX, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07A00][000005A799197800 52] iPhoneXS, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07C00][000005A79919A000 52] iPhoneXSMax, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C07E00][000005A79919C800 52] iPhoneXR, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08000][000005A7991A0000 52] iPhone11, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08200][000005A7991A2800 52] iPhone11Pro, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08400][000005A7991A5000 52] iPhone11ProMax, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08600][000005A7991A7800 52] iPhoneSE2, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08800][000005A7991AA000 52] iPhone12Mini, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08A00][000005A7991AC800 52] iPhone12, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08C00][000005A7991B0000 52] iPhone12Pro, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C08E00][000005A7991B2800 52] iPhone12ProMax, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09000][000005A7991B5000 52] iPhone13Mini, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09200][000005A7991B7800 52] iPhone13, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09400][000005A7991BA000 52] iPhone13Pro, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09600][000005A7991BC800 52] iPhone13ProMax, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09800][000005A798EB0000 52] iPhoneSE3, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09A00][000005A798EB2800 52] iPhone14, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09C00][000005A798EB5000 52] iPhone14Plus, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C09E00][000005A798EB7800 52] iPhone14Pro, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0A000][000005A798EBA000 52] iPhone14ProMax, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0A200][000005A798EBC800 52] iPadPro105, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0A400][000005A798EA0000 52] iPadPro129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0A600][000005A798EA2800 52] iPadPro97, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0A800][000005A798EA5000 52] iPadPro2_129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0AA00][000005A798EA7800 52] iPad5, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0AC00][000005A798EAA000 52] iPad6, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0AE00][000005A798EAC800 52] iPad7, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0B000][000005A7991C0000 52] iPad8, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0B200][000005A7991C2800 52] iPad9, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0B400][000005A7991C5000 52] iPad10, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0B600][000005A7991C7800 52] iPadPro11, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0B800][000005A7991CA000 52] iPadPro2_11, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0BA00][000005A7991CC800 52] iPadPro3_11, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0BC00][000005A7991D0000 52] iPadPro4_11, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0BE00][000005A7991D2800 52] iPadPro3_129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0C000][000005A7991D5000 52] iPadPro4_129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0C200][000005A7991D7800 52] iPadPro5_129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0C400][000005A7991DA000 52] iPadPro6_129, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0C600][000005A7991DC800 52] AppleTV, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0C800][000005A7991E0000 52] AppleTV4K, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0CA00][000005A7991E2800 52] AppleTV2_4K, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0CC00][000005A7991E5000 52] TVOS, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0CE00][000005A7991E7800 52] Mac, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0D000][000005A7991EA000 52] MacEditor, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0D200][000005A7991EC800 52] MacClient, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0D400][000005A7991F0000 52] MacServer, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0D600][000005A7991F2800 52] Linux, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0D800][000005A7991F5000 52] LinuxEditor, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0DA00][000005A7991F7800 52] LinuxArm64Editor, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0DC00][000005A7991FA000 52] LinuxArm64, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0DE00][000005A7991FC800 52] LinuxClient, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0E000][000005A799200000 52] LinuxArm64Client, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0E200][000005A799202800 52] LinuxServer, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0E400][000005A799205000 52] LinuxArm64Server, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0E600][000005A799207800 52] Android, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0E800][000005A79920A000 52] Android_Preview_OpenGL, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0EA00][000005A79920C800 52] Android_Preview_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0EC00][000005A799210000 52] Android_Low, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0EE00][000005A799212800 52] Android_Mid, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0F000][000005A799215000 52] Android_High, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0F200][000005A799217800 52] Android_Default, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0F400][000005A79921A000 52] Android_Adreno4xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0F600][000005A79921C800 52] Android_Adreno5xx_Low, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0F800][000005A799220000 52] Android_Adreno5xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0FA00][000005A799222800 52] Android_Adreno6xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0FC00][000005A799225000 52] Android_Adreno6xx_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A798C0FE00][000005A799227800 52] Android_Adreno7xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A79870FE00][000005A79922A000 52] Android_Adreno7xx_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A7874D2000][000005A79922C800 52] Android_Mali_T6xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230000][000005A799240000 52] Android_Mali_T7xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230200][000005A799242800 52] Android_Mali_T8xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230400][000005A799245000 52] Android_Mali_G71, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230600][000005A799247800 52] Android_Mali_G72, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230800][000005A79924A000 52] Android_Mali_G72_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230A00][000005A79924C800 52] Android_Mali_G76, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230C00][000005A799250000 52] Android_Mali_G76_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799230E00][000005A799252800 52] Android_Mali_G77, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231000][000005A799255000 52] Android_Mali_G77_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231200][000005A799257800 52] Android_Mali_G78, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231400][000005A79925A000 52] Android_Mali_G78_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231600][000005A79925C800 52] Android_Mali_G710, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231800][000005A799260000 52] Android_Mali_G710_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231A00][000005A799262800 52] Android_Mali_G7xx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231C00][000005A799265000 52] Android_Mali_G7xx_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799231E00][000005A799267800 52] Android_Xclipse_920, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232000][000005A79926A000 52] Android_Xclipse_920_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232200][000005A79926C800 52] Android_Vulkan_SM5, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232400][000005A799270000 52] Android_PowerVR_G6xxx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232800][000005A799272800 52] Android_PowerVR_GT7xxx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232A00][000005A799275000 52] Android_PowerVR_GE8xxx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799232E00][000005A799277800 52] Android_PowerVR_GM9xxx, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233000][000005A79927A000 52] Android_PowerVR_GM9xxx_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233200][000005A79927C800 52] Android_TegraK1, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233400][000005A799280000 52] Android_Unknown_Vulkan, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233600][000005A799282800 52] Oculus_Quest, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233800][000005A799285000 52] Oculus_Quest2, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: 	[000005A799233A00][000005A799287800 52] HoloLens, 
+[2024.02.18-18.15.49:223][  0]LogDeviceProfileManager: Active device profile: [000005A798C05000][000005A78DFE0000 52] WindowsEditor
+[2024.02.18-18.15.49:223][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.02.18-18.15.49:240][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.02.18-18.15.49:264][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.18-18.15.49:264][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2024.02.18-18.15.49:318][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.18-18.15.49:924][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Allowed_Sdk=r25b, Current_Sdk=, Allowed_AutoSdk=r25b, Current_AutoSdk=, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.")
+[2024.02.18-18.15.50:024][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, MinAllowed_Sdk=1100.0.0.0, MaxAllowed_Sdk=8999.0, Current_Sdk=, Allowed_AutoSdk=14.1, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2024.02.18-18.15.50:024][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Allowed_Sdk=v21_clang-15.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v21_clang-15.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2024.02.18-18.15.50:024][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Allowed_Sdk=v21_clang-15.0.1-centos7, Current_Sdk=, Allowed_AutoSdk=v21_clang-15.0.1-centos7, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
+[2024.02.18-18.15.50:024][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22000.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.18-18.15.50:314][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyReport_1.log" -log="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyLog_1.log" -project="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject"  -Device=Win64@DESKTOP-TO5NTQE'
+[2024.02.18-18.15.50:314][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/UE_5.2/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyReport_1.log" -log="D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyLog_1.log" -project="D:/Travaux/Jeux/TempleRunRemake/TempleRun/TempleRun.uproject"  -Device=Win64@DESKTOP-TO5NTQE" -nocompile -nocompileuat ]
+[2024.02.18-18.15.51:635][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.02.18-18.15.55:055][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.02.18-18.15.58:520][  0]LogMaterial: WorldGridMaterial-SM6-Default: MATSM_D2BE6101BBDD464FA4DA4FFD062CBE0E_PCD3D_SM6_-268646912__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_GV_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_DF_MS_T0_MS_T1_VED_Aniso-1_ComprOodle_Compr2_Lev6_ExclNonPipSh-1_LWC-2097152_2344159978DB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM6_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_62D973BDAB765EDE016625C5C0BF9591CD7A109D___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_02264C743B4EBE09D6337834B4862EF42B9C3268972C96EE55043153763054472F92891367BC849EC_FLumenCardPS<false>0_0_02457D1263C836FFF498424DB4AF9A4C3EB4958A4B4AFBC835B0E8511B596BB98C6C375E96F613E4D_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_02264C743B4EBE09D6337834B4862EF42B9C326895D9003A07122BE7BD2876C98DF8D858F5E00365D_TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F5FCFDE4884D635EDF4F18BD3392801DB627240626_FMicropolyRasterizeCS0_0_0DEAC3C3E46DF2BDB82DD06A935E2CAE2930A820F38D66192BF0D34515EC5AD2CDACFA24FFB6B4CAC_TLightMapDensityPSTLightMapPolicyHQ0_0_058A251A7FBD282E0BF98A401EA3BC4C40863562629E8E0F5F6FD2EDF413A1250AA7BE6E52C951D64_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E72C399F00EA0D8E90CF7BA4C61EF5A3EF74973E9_TBasePassPSTLightMapPolicyLQSkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E2E4EA8FEEED7EE52C208FC54424FEDB2CB987C3B_FLandscapeGrassWeightVS0_0_02C102A4737D12FEDAA3D47C3B3BA7F1EA99B0714A469FA5FCF448A131F926D214995E53915A18256_TLightMapDensityVSFNoLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626891C1124EC1B5DB941DF1BA5FABB4BBFA352223F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E69888500E07A0F62E3747DCAFAE5FAC8F032AD04_FHWRasterizeVS0_0_0DEAC3C3E46DF2BDB82DD06A935E2CAE2930A820F48C83E6C6E5EB20B8752F7226BE8C1194A6F8F77_FHitProxyVS0_0_031CD4BEC083EC5AABC92B5D6C0EACFBA46742582B282128ADBC0C8F2E22B2C5B575EEDED30A8B7B8_FHitProxyPS0_0_0C2B820604C8DF7757F83EC0CC67790418915B0DE2A74A59EB00EA821209C26349094BBB03F4D6ED5_FLandscapeGrassWeightPS0_0_02C102A4737D12FEDAA3D47C3B3BA7F1EA99B0714106C943CF2E5C6D33DAE5FDC4A4E9B8232B7C78A_TBasePassPSFNoLightMapPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E6C8686026B054D9BD961D4C440F5FDD54CA38C07_FHWRasterizePS0_0_0DEAC3C3E46DF2BDB82DD06A935E2CAE2930A820F48C028453BCF70A104115FCB364BA6A5C3C4AAA0_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F55C128A2F6D1507D174ED09775E1D5BB050F02683_TDepthOnlyVS<true>0_0_06E7993E54659C6E3E6E5A80B2A1CF73C4A3862492A9A9EB6F6AEC78D04ED0798341235919F1C7EA3_FLandscapePhysicalMaterialPS0_0_0C2A232BA5DD2CD1C1E3E5716E1EB7803D8C4BBA9BD4AAA5E1E701CB0F79C3E8D450BEF8AC937258A_TLightMapDensityVSFDummyLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626A8D01D556A2A6347711968CC5B2C44E20848E17B_FLumenCardVS0_0_0784500B7211961E566D3530A8C3C9B5D176CCD8F617646237FDC69FB38D590AA0B687E0FB01A281E_TShadowDepthPSPixelShadowDepth_VirtualShadowMap0_0_02264C743B4EBE09D6337834B4862EF42B9C32689DFFF0B5EA8BD51A79796C1533647D79F12B2FEBD_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D300FB996F0BE2BDCDA243D4A21F958EA439EF10418F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737EE098E06E3A7ED4E7D0AE384D374798EAC9E671FB_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E1BF2DD414CE38D1A46E8BD153A9AAA4080A3ED8A_TBasePassPSTLightMapPolicyHQ0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E26BD9FE44090B7A8EDCBBA02B66941E951A0847F_FLumenCardPS<true>0_0_02457D1263C836FFF498424DB4AF9A4C3EB4958A410BC213CA7B98C6BDB504A3A124DF8170F9D2A6B_TLightMapDensityPSFDummyLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626696F9EC07D698191FA845F9186A9C2C14B87D692_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737EEA781543209A66E56FAA33319B50428AB09B65E2_FTranslucentLightingInjectPS0_0_001D4B88ABA15B4C2F4AEE80A20DDD85F91BFBAAE70CF5C264EEE993F300F770C1E5D8BD55181BC8A_TBasePassVSFCachedPointIndirectLightingPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D300D1726533EF0C3E687EA7E3E99D89F6645873B5F6_FHWRasterizeMS0_0_0DEAC3C3E46DF2BDB82DD06A935E2CAE2930A820F82A55489FBDC4449CDA421AFD89E7C8F3ED6A32B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E233B673B73AD5C3DA45AB58558A2FEAF1AB5A7AA_FVelocityPS0_0_0EFD1E5AC7AC6021B8CC5706AB190C11D424A9665CC98E6311AC1581B96A09EEE8AE8F6960285B5A2_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E80D0A4694439F865D3CC508893BCA55969638F38_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F5C004ABA017AA57991204B7B624FFD889C3B24A57_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E588D69EC55B53A1F6EF1FDFE007D13A68C0DD945_TLightMapDensityPSFNoLightMapPolicy0_0_058A251A7FBD282E0BF98A401EA3BC4C4086356260E6A1E8C16C0AF9964CF3FEFC1B82F1F3B567770_TLightMapDensityVSTLightMapPolicyLQ0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626436509D3C31F9011DB1B52E8E02F2100F14082F9_TBasePassVSTLightMapPolicyHQ0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D300CE573C2FA544614368F38DB987E943642455C304_FLandscapePhysicalMaterialVS0_0_0C2A232BA5DD2CD1C1E3E5716E1EB7803D8C4BBA9DE0D5BCEA7EC56FCFAF6FE24C7902B1E6C1A2354_TBasePassPSFNoLightMapPolicySkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E3C0FD33120C8575A512698C01E1EBF84CB90BE73_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D30052DA8047FE3873ACFEEB67FCFF3AF5DF1AA7C5C8_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_02264C743B4EBE09D6337834B4862EF42B9C326891C20FE0F6421C3566B37C59CBA77F6639400AC09_TShadowDepthVSVertexShadowDepth_PerspectiveCorrectPositionOnly0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F5860900EDBECB877A088A2E4A829C4D0BA92DB982_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D30060D5E6FFDE96A687BE1C1A2ED9EDE815F8E41839_TShadowDepthVSVertexShadowDepth_VirtualShadowMap0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F5B4ECC9EA8AA550391078AD8904E08901E177AD2E_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F556E359529EA5F920092BA8DF37812C451EC3EEF6_TBasePassPSTLightMapPolicyLQ0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E94FC918ED25A4366478C0CE664DD0F431FB434A6_TLightMapDensityPSTLightMapPolicyLQ0_0_058A251A7FBD282E0BF98A401EA3BC4C4086356260B66239385DAE6F5050046365A9D116D80E52224_TBasePassVSTLightMapPolicyLQ0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D300BFC5C974DD65E6DA17A7D3C21BFBF250BA30283F_TLightMapDensityVSTLightMapPolicyHQ0_0_058A251A7FBD282E0BF98A401EA3BC4C408635626B0E82574BC7F5C377B8E738E24BDE3D732363B44_TShadowDepthVSVertexShadowDepth_VirtualShadowMapPositionOnly0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F52206E6F09C16C096D9488323D49A0F7639FE2E34_FDebugViewModePS0_0_0CACE037AF02FBF14C63D82D2287C8D03A9166DC5E177622259CDB9DC1140CF61335F5353997EC8B6_TBasePassPSTLightMapPolicyHQSkylight0_0_0023E536FBB054B5BF34ECC48168B8360A3B4737E25C2A51F6B76462E73EA9720145CE5233C11211C_TDepthOnlyVS<false>0_0_0E4BEC3AC2ABE0283BB1952B71FCE27DADCCE69C4ACA14F90957AEBF5BC1C2C3E6DB6BC750BA01CCD_FVelocityVS0_0_0EFD1E5AC7AC6021B8CC5706AB190C11D424A9665C043BB9FD7164B6E8DBD4123FD00693BC9B4513E_FDebugViewModeVS0_0_0A6C9E974D11AD18A56FCFC2CE273D736752B24FF809CB80A6A7260721600DBFAB6C1E0001BD9B8AE_TShadowDepthVSVertexShadowDepth_OnePassPointLightPositionOnly0_0_0E0AE3AEA3BE08ADCA99972F4085945CD97CCC6F56EB2AEF0350E0D6AC5867CF6F9990BDA65424641_TBasePassVSFNoLightMapPolicy0_0_09B25FBD4528C4BB8CC5944C0C133099CCD98D3002677AEB94C74F9DCEF44AB17F94D82839B020A23_DepthPosOnlyNoPixelPipeline6E7993E54659C6E3E6E5A80B2A1CF73C4A386249_VelocityPipeline18600EF5498F16C26DBD4EC5E6B65ECB6A44FBB4_DepthNoPixelPipelineE4BEC3AC2ABE0283BB1952B71FCE27DADCCE69C4_FGPUSpriteVertexFactory2EC19AA1FCACAB5E3FFF7C3B92D7EE33950DA20B5C5BE91DA01DC2B25B1018F3EDA7A6FC7D1D30AEB9CA513CCBA4F1E3AF7D9556DD0F2FF45E951E1A_FNiagaraRibbonVertexFactoryDFD49820B64BDFF3363FD262485BA53288126071A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966DE03DD13CEAD2D60503F2AAC85D4762994EF4025A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966_TGPUSkinAPEXClothVertexFactoryDefault9CBED93CCA0581CDDDD24ADBFD13B151E3395A47BBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FParticleSpriteVertexFactoryDCA06453589255A235A7AAD69084C253138EF6D5F99E1B0FB635933CEEAC41CF9441DF5EA4A994CA9DAE5A7C55936FD50BC3B20BD063C1832A4D4247_TGPUSkinVertexFactoryUnlimited9CBED93CCA0581CDDDD24ADBFD13B151E3395A47180376A7171B50BD465E9983F32BCB5A07542FE7_FVectorFieldVisualizationVertexFactoryCFD3B515B6C14C9CD5C34E7E8B03F8B7520AA2DFCC854D8E74FEAEF90804D69AF6B78BD07A141ACC_FNiagaraMeshVertexFactory63D3EAFE5AE508DBE8CB051B8533DAF6714E54A04B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9571BD81B2CBA1F364F28A837532353718EB814537B4B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9574B3A20E0CA93D5CA5A60C16EF2EB14EA073FC957_FParticleBeamTrailVertexFactory2875CB210252C4C77BA5FAD78D572C04DBDBDA41378BBDDEC2CEAC35A309C357B38D702E7981D5D3_TGPUSkinVertexFactoryDefault9CBED93CCA0581CDDDD24ADBFD13B151E3395A47180376A7171B50BD465E9983F32BCB5A07542FE7_TGPUSkinAPEXClothVertexFactoryUnlimited9CBED93CCA0581CDDDD24ADBFD13B151E3395A47BBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FGeometryCollectionVertexFactory356502C20F6757ADCAC398AFC3C94EA8E7B4F71D49D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC41_FLandscapeXYOffsetVertexFactoryE72F6DAAC067D804DA322F3F9260CA0C8002EDDBB1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FMeshParticleVertexFactory74550A1FCF843D14286CB9E10BAE4687997D5E63F773920348F231C490A74B1A551F8CE3ABF04791_FInstancedStaticMeshVertexFactoryE80F5991FB4AFA1D421CB5E23A292E1A7A727040A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8_FSplineMeshVertexFactoryE80F5991FB4AFA1D421CB5E23A292E1A7A727040A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965_FLocalVertexFactoryE80F5991FB4AFA1D421CB5E23A292E1A7A72704081418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E_FLandscapeVertexFactoryE72F6DAAC067D804DA322F3F9260CA0C8002EDDBB1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FNiagaraSpriteVertexFactory05E75C4923C709A92F1BD2524FB377F477139BD35957CFEE095AEFFBA7F83F09F020F15CF6555718EFF166204144512228FF7A163011544EEF3FD2265957CFEE095AEFFBA7F83F09F020F15CF65557185957CFEE095AEFFBA7F83F09F020F15CF6555718_Nanite::FVertexFactory058CA062179EAAD8F076E0F78F3C900C4DA897FB_FGeometryCacheVertexVertexFactory9F70D4DD6E443DD08CA62EEA5897D914FD739EB076143182082C57C6F98756E7AE927ED26DD4479A76143182082C57C6F98756E7AE927ED26DD4479A_FLandscapeFixedGridVertexFactoryE72F6DAAC067D804DA322F3F9260CA0C8002EDDB3F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB258810141414444414441444141414141444447401010101010131454444143314010134010101424464512141414142402414141414141313304444443724144444444404444444444444444444434141414142404444444444442434141414141510100031313131233131434341434131423121444044444131313131444031010101510101010113161656434343434116161616161666243161616161303434344414444444441415151510103001013115161616160240404040404040404040404040404040434343434344444444444444444040404040404044444444404040404444444444443444444444444221414144444442414141444144414141414131313131313141414443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414441413141432444444444414121434341414131414141414122414343424241434343414341414441313131313144424441214144313131414444434121212121243134414114222212164421022121212121314444444444444440510151015101331414304341011640444414150051515151616161616101010101015151401212131616161636316161121010014714131313143304410101010101010101510101010101010143141500010101010101010101010101010101010101011600044414040424243131314144010101016101010101010131010101401213131314161606016161612444313131212121212121212141414144444444442140444414121212121212121212121212121312121212121212121212141212121212121212324414130431313131616161616161616121104344444434144414141414242414121212121212121212121312121212121212121212121212121242442424243434341414441414141414444444444444444414421402313131313131616161616110101012101010101510120044444444404342404442315101404444444444444303313131214331404040404043414443314331444331433143414341433143314331432142413141314411144246444444044464444444444044401410101510151015000101010101010101010101010110000444140404141210101000010101010101014444424231310101404444444444444444444444444444444444444444444444444444444444444444444444444404444444444444434144414141414342101313131312121323222222121010101010000101010101444442424121010101010101010141410101510101010101004444441415151040404043410004040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244444444344444424241412144444442414141434141414141414141413131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424241434343414341414441414131313134324441414124414131313444434141412121242121313141410101515151515151515151510101010101010101015151515151015101510151015101510101010101010151016161616161510151015101510151015101510151015101313151515151015101015101646141415401415101016161716163634043131313131313131442222314141410101010101000011000000130000001300000013000000130000001300000013000000140000000C00000013000000130000000D00000009000000140000000F0000001000000008000000090000000800000024000000100000001000000013000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CF00000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000140000001000000008000000080000000800000014000000140000001300000008000000100000000800000008000000080000000800000008000000080000001300000010000000140000001100000013000000130000001300000013000000130000001300000013000000130000000800000010000000110000000900000008000000090000000800000008000000130000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000800000008000000080000000800000008000000130000001000000010000000100000001600000010000000100000001000000010000000090000000900000009000000090000000900000010000000100000001000000010000000080000001A00000014000000290000000D000000440000000B0000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C00000010000000080000000800000029000000100000001000000010000000100000001000000010000000100000000900000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000120000000900000009000000090000000900000009000000100000001D0000001300000013000000130000001300000013000000090000000800000009000000080000000900000008000000090000000800000014000000140000000800000010000000090000000800000013000000080000001000000008000000080000001000000010000000310100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A8990000000000000000000000000000000000000000EFE2B2BFD689FE76C1B7EF7C7E404AB24393F749_101_101_5;
+[2024.02.18-18.16.00:308][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.18-18.16.00:308][  0]LogMeshReduction: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.02.18-18.16.00:308][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.18-18.16.00:308][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.18-18.16.00:308][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.18-18.16.10:559][  0]LogUObjectArray: 21525 objects as part of root set at end of initial load.
+[2024.02.18-18.16.10:559][  0]LogUObjectAllocator: 5884648 out of 0 bytes used by permanent object pool.
+[2024.02.18-18.16.10:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.18-18.16.11:102][  0]LogSlate: Border
+[2024.02.18-18.16.11:102][  0]LogSlate: BreadcrumbButton
+[2024.02.18-18.16.11:102][  0]LogSlate: Brushes.Title
+[2024.02.18-18.16.11:103][  0]LogSlate: Default
+[2024.02.18-18.16.11:103][  0]LogSlate: Icons.Save
+[2024.02.18-18.16.11:103][  0]LogSlate: Icons.Toolbar.Settings
+[2024.02.18-18.16.11:103][  0]LogSlate: ListView
+[2024.02.18-18.16.11:103][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.02.18-18.16.11:103][  0]LogSlate: SoftwareCursor_Grab
+[2024.02.18-18.16.11:103][  0]LogSlate: TableView.DarkRow
+[2024.02.18-18.16.11:103][  0]LogSlate: TableView.Row
+[2024.02.18-18.16.11:103][  0]LogSlate: TreeView
+[2024.02.18-18.16.15:887][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.02.18-18.16.15:887][  0]LogInit: XR: MultiViewport is Disabled
+[2024.02.18-18.16.15:887][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.02.18-18.16.15:923][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-TO5NTQE: (Name=DESKTOP-TO5NTQE, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2024.02.18-18.16.15:924][  0]LogFileManager: Warning: Error deleting file: D:/Travaux/Jeux/TempleRunRemake/TempleRun/Intermediate/TurnkeyReport_1.log (Error Code 5)
+[2024.02.18-18.16.23:619][  0]LogPython: Using Python 3.9.7
+[2024.02.18-18.16.25:570][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.18-18.16.25:572][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.18-18.16.25:575][  0]LogUdpMessaging: Display: Added local interface '192.168.1.100' to multicast group '230.0.0.1:6666'
+[2024.02.18-18.16.25:575][  0]LogUdpMessaging: Display: Added local interface '192.168.43.1' to multicast group '230.0.0.1:6666'
+[2024.02.18-18.16.25:575][  0]LogUdpMessaging: Display: Added local interface '192.168.52.1' to multicast group '230.0.0.1:6666'
+[2024.02.18-18.16.25:706][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.02.18-18.16.25:728][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.02.18-18.16.25:853][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 81D4AEB24267AE06812C5E977FF08BF6 | Instance: 7659EE7E41DE347CA55A14B16D355DB9 (DESKTOP-TO5NTQE-7332).
+[2024.02.18-18.16.27:456][  0]SourceControl: Revision control is disabled
+[2024.02.18-18.16.27:607][  0]SourceControl: Revision control is disabled
+[2024.02.18-18.16.27:707][  0]LogUProjectInfo: Found projects:
+[2024.02.18-18.16.33:629][  0]LogOpenImageDenoise: OIDN starting up
+[2024.02.18-18.16.33:926][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.18-18.16.33:935][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.18-18.16.33:935][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.18-18.16.34:452][  0]LogCollectionManager: Loaded 0 collections in 0.000748 seconds
+[2024.02.18-18.16.34:454][  0]LogFileCache: Scanning file cache for directory 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Collections/' took 0.00s
+[2024.02.18-18.16.34:455][  0]LogFileCache: Scanning file cache for directory 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/Developers/mhoar/Collections/' took 0.00s
+[2024.02.18-18.16.34:457][  0]LogFileCache: Scanning file cache for directory 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/Collections/' took 0.00s
+[2024.02.18-18.16.39:743][  0]LogClass: Warning: Property ArrayProperty UPresetSettingsProperties::ActivePresetCollectionsPaths defines MetaData key "MetaClass" which contains short type name "InteractiveToolsPresetCollectionAsset". Suggested pathname: "/Script/PresetAsset.InteractiveToolsPresetCollectionAsset". Module:ModelingToolsEditorMode File:Public/ModelingToolsEditorModeToolkit.h
+[2024.02.18-18.16.39:755][  0]LogClass: Display: 1 short type names in reflected types' MetaData
+[2024.02.18-18.16.40:187][  0]LogAutomationTest: Warning: LogClass: Property ArrayProperty UPresetSettingsProperties::ActivePresetCollectionsPaths defines MetaData key "MetaClass" which contains short type name "InteractiveToolsPresetCollectionAsset". Suggested pathname: "/Script/PresetAsset.InteractiveToolsPresetCollectionAsset". Module:ModelingToolsEditorMode File:Public/ModelingToolsEditorModeToolkit.h
+[2024.02.18-18.16.40:549][  0]LogEngine: Initializing Engine...
+[2024.02.18-18.16.41:157][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.02.18-18.16.41:352][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.043 s
+[2024.02.18-18.16.43:296][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.18-18.16.43:761][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.16.44:301][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.16.45:670][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.18-18.16.46:074][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.18-18.16.46:099][  0]LogInit: Texture streaming: Enabled
+[2024.02.18-18.16.46:359][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.2.1-26001984+++UE5+Release-5.2
+[2024.02.18-18.16.46:460][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.18-18.16.46:595][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.02.18-18.16.46:633][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.02.18-18.16.46:665][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.02.18-18.16.46:666][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.02.18-18.16.46:667][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.02.18-18.16.46:667][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.02.18-18.16.46:667][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.02.18-18.16.46:715][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.18-18.16.46:715][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.18-18.16.46:742][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.18-18.16.46:742][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.18-18.16.46:747][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.18-18.16.46:747][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.18-18.16.46:747][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.18-18.16.46:878][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.18-18.16.46:978][  0]LogAudioMixer: Display: Using Audio Hardware Device Casque (Arctis 5 Game)
+[2024.02.18-18.16.47:089][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.18-18.16.47:115][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.18-18.16.47:116][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.18-18.16.47:139][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.02.18-18.16.47:139][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.18-18.16.47:140][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.18-18.16.47:140][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.02.18-18.16.47:155][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.02.18-18.16.47:167][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.18-18.16.47:189][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.18-18.16.47:197][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.18-18.16.47:489][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.02.18-18.16.47:585][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.02.18-18.16.47:585][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.02.18-18.16.47:586][  0]LogLiveCoding: Display: First instance in process group "UE_TempleRun_0x33e8deed", spawning console
+[2024.02.18-18.16.47:945][  0]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/mhoar/AppData/Local/UnrealEngine/5.2/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2024.02.18-18.16.48:446][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2024.02.18-18.16.48:448][  0]LogInit: Undo buffer set to 32 MB
+[2024.02.18-18.16.48:448][  0]LogInit: Transaction tracking system initialized
+[2024.02.18-18.16.48:988][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/SourceControl/UncontrolledChangelists.json
+[2024.02.18-18.16.48:988][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.02.18-18.16.48:990][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002388 seconds (Found 115 uncontrolled assets)
+[2024.02.18-18.16.49:213][  0]LogLiveCoding: Display: Waiting for server
+[2024.02.18-18.16.49:338][  0]LogDerivedDataCache: C:/Users/mhoar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.212 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 897 files in 1487 folders with total size 55 MiB.
+[2024.02.18-18.16.51:449][  0]BlueprintLog: New page: Editor Load
+[2024.02.18-18.16.53:357][  0]LocalizationService: Localization service is disabled
+[2024.02.18-18.16.53:718][  0]TimingProfiler: Initialize
+[2024.02.18-18.16.53:721][  0]TimingProfiler: OnSessionChanged
+[2024.02.18-18.16.53:721][  0]LoadingProfiler: Initialize
+[2024.02.18-18.16.53:721][  0]LoadingProfiler: OnSessionChanged
+[2024.02.18-18.16.53:726][  0]NetworkingProfiler: Initialize
+[2024.02.18-18.16.53:727][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.18-18.16.53:727][  0]MemoryProfiler: Initialize
+[2024.02.18-18.16.53:727][  0]MemoryProfiler: OnSessionChanged
+[2024.02.18-18.16.53:872][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.02.18-18.16.55:052][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.55:552][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.56:053][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.56:555][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.57:056][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.57:556][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.58:057][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.58:558][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.59:059][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.16.59:559][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini' (Error Code 183), retrying in .5s...
+[2024.02.18-18.17.00:060][  0]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/GameUserSettings8CA7ADC544299F39742ED2B92BA9D4BD.tmp' to 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Config/WindowsEditor/GameUserSettings.ini'.
+[2024.02.18-18.17.00:168][  0]LogFileCache: Scanning file cache for directory 'D:/Travaux/Jeux/TempleRunRemake/TempleRun/Content/' took 0.01s
+[2024.02.18-18.17.03:205][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.02.18-18.17.04:947][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.18-18.17.05:118][  0]SourceControl: Revision control is disabled
+[2024.02.18-18.17.05:139][  0]LogUnrealEdMisc: Loading editor; pre map load, took 201.324
+[2024.02.18-18.17.05:220][  0]Cmd: MAP LOAD FILE="../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.18-18.17.05:283][  0]LightingResults: New page: Lighting Build
+[2024.02.18-18.17.05:555][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.17.05:753][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.17.05:962][  0]MapCheck: New page: Map Check
+[2024.02.18-18.17.05:962][  0]LightingResults: New page: Lighting Build
+[2024.02.18-18.17.07:040][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.18-18.17.07:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took  75.08ms
+[2024.02.18-18.17.11:607][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.02.18-18.17.11:607][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.18-18.17.11:607][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.02.18-18.17.11:616][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.02.18-18.17.11:635][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.02.18-18.17.11:660][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.02.18-18.17.11:711][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.02.18-18.17.12:135][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.02.18-18.17.12:144][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.02.18-18.17.12:152][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.02.18-18.17.12:623][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.18-18.17.14:577][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.02.18-18.17.14:614][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.17.14:623][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.17.14:695][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.18-18.17.14:895][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.02.18-18.17.14:896][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.18-18.17.15:019][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.18-18.17.17:747][  0]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.18-18.17.17:801][  0]LogWorldPartition: Display: WorldPartition initialize took 2.90 sec
+[2024.02.18-18.17.19:809][  0]LogEditorServer: Finished looking for orphan Actors (0.025 secs)
+[2024.02.18-18.17.20:262][  0]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_2CF05D79C3D59BD901-Default is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MV/BUUM8HJ4Q7MWT6WOKJK6ET.PackageMetaData in its package
+[2024.02.18-18.17.20:941][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.18-18.17.21:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.18-18.17.21:267][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 143,129ms to complete.
+[2024.02.18-18.17.21:273][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 16.086
+[2024.02.18-18.17.23:283][  0]LogUnrealEdMisc: Total Editor Startup Time, took 219.467
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: ================================================
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: RAM used: 240,00 B of 819,20 MiB budget. Usage: 0.00%
+[2024.02.18-18.17.23:283][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-18.17.23:301][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.18-18.17.23:301][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.18-18.17.23:301][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.18-18.17.23:301][  0]LogShaderCompilers: Display: ================================================
+[2024.02.18-18.17.24:392][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.02.18-18.17.24:392][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.02.18-18.17.25:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.18-18.17.25:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.18-18.17.25:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.18-18.17.25:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.18-18.17.28:396][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:420][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:440][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:459][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:476][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:486][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:499][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:507][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:515][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.28:534][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/UE_5.2/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.02.18-18.17.31:210][  0]LogSlate: Took 0.036024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.18-18.17.31:347][  0]LogSlate: Took 0.022023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.18-18.17.31:373][  0]LogSlate: Took 0.011637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.18-18.17.31:459][  0]LogSlate: Took 0.043033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.18-18.17.31:514][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.17.31:693][  0]LogViewport: Scene viewport resized to 2548x1340, mode Windowed.
+[2024.02.18-18.17.33:408][  0]LogSlate: Took 0.012686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.18-18.17.35:728][  0]LogStall: Startup...
+[2024.02.18-18.17.35:730][  0]LogStall: Startup complete.
+[2024.02.18-18.17.35:970][  0]LogLoad: (Engine Initialization) Total time: 232.15 seconds
+[2024.02.18-18.17.35:970][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.18-18.17.36:702][  0]LogAssetRegistry: AssetRegistryGather time 44.1344s: AssetDataDiscovery 5.0200s, AssetDataGather 38.9633s, StoreResults 0.1511s.
+[2024.02.18-18.17.37:140][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008325 seconds (updated 0 objects)
+[2024.02.18-18.17.37:236][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.18-18.17.38:558][  0]LogViewport: Scene viewport resized to 2548x1281, mode Windowed.
+[2024.02.18-18.17.44:041][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.18-18.17.44:447][  1]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.18-18.17.44:911][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.17.46:165][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.17.46:639][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.17.47:790][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.17.49:109][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.31.52:432][123]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.18-18.32.01:895][ 80]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.02.18-18.32.01:920][ 80]LogContentBrowser: Creating deferred item: NewInterface
+[2024.02.18-18.32.01:938][ 81]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.02.18-18.32.09:815][702]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_TilesInterface
+[2024.02.18-18.32.10:117][702]LogContentBrowser: End creating deferred item NewInterface
+[2024.02.18-18.32.11:710][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BPI_TilesInterface.BPI_TilesInterface
+[2024.02.18-18.32.11:752][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.32.11:752][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.32.13:698][809]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.02.18-18.32.38:511][809]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [24333ms] waiting for h/w. InstanceID=1
+[2024.02.18-18.32.38:511][809]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049937s
+[2024.02.18-18.32.40:170][809]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003703s (1.707035s overbudget)
+[2024.02.18-18.32.40:410][809]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6152
+[2024.02.18-18.32.40:471][809]LogSlate: Took 0.058658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.18-18.32.41:191][810]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c7ec1c10-e67d-4a32-be70-dd49c1513ca5}, Name=Casque (Arctis 5 Game)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=76.25
+[2024.02.18-18.32.41:191][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.18-18.32.41:193][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.18-18.32.41:354][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.18-18.32.41:395][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.064
+[2024.02.18-18.32.41:422][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BPI_TilesInterface] ([2] browsable assets)...
+[2024.02.18-18.32.41:422][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BPI_TilesInterface]
+[2024.02.18-18.32.41:452][810]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.006237 seconds
+[2024.02.18-18.32.41:614][810]LogSerialization: UsePackageTrailer: 'true'
+[2024.02.18-18.32.41:638][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BPI_TilesInterface_Auto1
+[2024.02.18-18.32.41:638][810]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BPI_TilesInterface_Auto17D25A90C416CCEAF99CBBA9680B83E44.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Autosaves/Game/ThirdPerson/Blueprints/BPI_TilesInterface_Auto1.uasset'
+[2024.02.18-18.32.41:686][810]LogFileHelpers: Auto-saving content packages took 0.291
+[2024.02.18-18.33.29:033][362]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.18-18.33.29:033][362]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.18-18.34.15:377][918]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.18-18.34.40:813][965]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2024.02.18-18.34.40:813][965]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2024.02.18-18.34.47:759][773]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.02.18-18.34.47:759][773]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2024.02.18-18.34.52:107][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.18-18.34.53:826][271]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-18.34.53:851][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-18.34.53:911][271]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BPI_TilesInterface
+[2024.02.18-18.34.53:911][271]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BPI_TilesInterfaceED9D4B35426CF1480BC6FB9274752650.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BPI_TilesInterface.uasset'
+[2024.02.18-18.34.53:933][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms
+[2024.02.18-18.34.53:991][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.34.54:011][271]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2024.02.18-18.34.54:011][271]Cmd: MAP LOAD FILE="../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.18-18.34.54:011][271]LightingResults: New page: Lighting Build
+[2024.02.18-18.34.54:011][271]LoadErrors: New page: Loading map: MainLevel.umap
+[2024.02.18-18.34.54:231][271]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.34.54:256][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.34.54:396][271]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.18-18.34.54:401][271]MapCheck: New page: Map Check
+[2024.02.18-18.34.54:401][271]LightingResults: New page: Lighting Build
+[2024.02.18-18.34.54:419][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.18-18.34.54:767][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.18-18.34.54:845][271]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.34.54:845][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.34.54:864][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.18-18.34.54:883][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.18-18.34.54:886][271]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2024.02.18-18.34.54:886][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.34.54:886][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.34.54:886][271]LogAIModule: Creating AISystem for world MainLevel
+[2024.02.18-18.34.55:244][271]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.18-18.34.55:276][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.18-18.34.55:280][271]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.18-18.34.55:281][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,076ms to complete.
+[2024.02.18-18.34.55:281][271]LogFileHelpers: Loading map 'MainLevel' took 1.269
+[2024.02.18-18.34.55:318][271]AssetCheck: New page: Asset Save: BPI_TilesInterface
+[2024.02.18-18.34.55:318][271]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BPI_TilesInterface.BPI_TilesInterface
+[2024.02.18-18.35.05:428][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTile.BP_GroundTile
+[2024.02.18-18.35.05:428][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.35.05:428][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.35.23:242][288]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2024.02.18-18.37.26:985][937]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.37.26:986][937]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.37.26:986][937]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.39.40:301][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-18.39.40:418][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GroundTile" FILE="../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset" SILENT=true
+[2024.02.18-18.39.40:539][143]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.39.40:539][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.41:041][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.41:542][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.42:042][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.42:543][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.43:043][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.43:544][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.44:044][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.44:545][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.45:046][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.39.45:546][143]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDC832F4845DAF2BA2A260BAE758E131C.tmp'.
+[2024.02.18-18.39.45:546][143]LogSavePackage: Warning: Failed to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to temp directory
+[2024.02.18-18.39.45:546][143]LogSavePackage: Error: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.39.52:284][143]LogSlate: Window 'Message' being destroyed
+[2024.02.18-18.39.52:290][143]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/BP_GroundTile' (BP_GroundTile.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.02.18-18.39.52:296][143]EditorErrors: New page: Save Output
+[2024.02.18-18.39.52:296][143]EditorErrors: Warning: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.39.53:737][143]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2024.02.18-18.39.53:744][143]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.39.53:744][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.4 sec (total: 13.5 sec)
+[2024.02.18-18.39.56:384][451]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.39.56:390][451]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.39.57:266][556]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.39.57:338][556]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2024.02.18-18.39.57:338][556]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2024.02.18-18.39.57:522][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.18-18.40.25:644][769]LogEditorTransaction: Undo Create Pin Link
+[2024.02.18-18.40.25:852][771]LogEditorTransaction: Undo Function Dropped on Graph
+[2024.02.18-18.40.25:976][773]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.40.26:156][776]LogEditorTransaction: Undo Create Pin Link
+[2024.02.18-18.40.26:241][777]LogEditorTransaction: Undo Paste clipboard contents
+[2024.02.18-18.40.26:337][786]LogEditorTransaction: Undo Rename Function
+[2024.02.18-18.40.26:464][793]LogEditorTransaction: Undo Add New Function
+[2024.02.18-18.40.26:606][806]LogEditorTransaction: Undo Remove Graph
+[2024.02.18-18.40.26:752][820]LogEditorTransaction: Undo Add New Function
+[2024.02.18-18.40.26:894][834]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.40.27:188][866]LogEditorTransaction: Undo Remove Graph
+[2024.02.18-18.40.42:024][605]LogSlate: Took 0.038360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.18-18.40.42:066][605]LogSlate: Took 0.016722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.18-18.41.02:741][837]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.41.02:785][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.18-18.41.21:305][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-18.41.21:384][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GroundTile" FILE="../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset" SILENT=true
+[2024.02.18-18.41.21:392][988]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.41.21:392][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.21:893][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.22:394][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.22:894][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.23:395][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.23:895][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.24:396][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.24:897][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.25:397][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.25:898][988]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.41.26:399][988]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile413D184F4859B56D0E44D59302D8D154.tmp'.
+[2024.02.18-18.41.26:399][988]LogSavePackage: Warning: Failed to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to temp directory
+[2024.02.18-18.41.26:399][988]LogSavePackage: Error: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.41.28:330][988]LogSlate: Window 'Message' being destroyed
+[2024.02.18-18.41.28:337][988]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/BP_GroundTile' (BP_GroundTile.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.02.18-18.41.28:351][988]EditorErrors: New page: Save Output
+[2024.02.18-18.41.28:351][988]EditorErrors: Warning: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.41.29:303][988]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2024.02.18-18.41.29:309][988]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.41.29:309][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.00 sec (total: 21.5 sec)
+[2024.02.18-18.41.31:423][241]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.41.31:428][241]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.41.32:721][396]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.41.32:757][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.18-18.41.39:687][213]BlueprintLog: New page: Compile BPI_TilesInterface
+[2024.02.18-18.41.39:708][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.18-18.41.40:690][323]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.41.40:690][323]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.41.40:691][323]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.18-18.41.42:778][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.02.18-18.41.42:778][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.41.42:778][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.41.50:105][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTileDown.BP_GroundTileDown
+[2024.02.18-18.41.50:105][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.41.50:105][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.41.51:342][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTileUp.BP_GroundTileUp
+[2024.02.18-18.41.51:343][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-18.41.51:343][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-18.43.28:040][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-18.43.28:126][747]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GroundTileDown
+[2024.02.18-18.43.28:126][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.28:627][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.29:129][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.29:629][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.30:130][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.30:631][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.31:131][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.31:632][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.32:133][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.32:634][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.33:135][747]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown74103BC84B5C71F3E62F459FB3A08631.tmp'.
+[2024.02.18-18.43.33:135][747]LogSavePackage: Warning: Failed to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to temp directory
+[2024.02.18-18.43.33:135][747]LogSavePackage: Error: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset'
+[2024.02.18-18.43.38:883][747]LogSlate: Window 'Message' being destroyed
+[2024.02.18-18.43.38:890][747]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/BP_GroundTileDown' (BP_GroundTileDown.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.02.18-18.43.38:897][747]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GroundTileDown
+[2024.02.18-18.43.38:898][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.39:399][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.39:900][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.40:401][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.40:902][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.41:402][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.41:902][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.42:403][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.42:903][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.43:404][747]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.43.43:905][747]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown799F21A049EA1A3B9190EDAB98CF83A2.tmp'.
+[2024.02.18-18.43.43:905][747]LogSavePackage: Warning: Failed to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset' to temp directory
+[2024.02.18-18.43.43:905][747]LogSavePackage: Error: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset'
+[2024.02.18-18.43.46:487][747]LogSlate: Window 'Message' being destroyed
+[2024.02.18-18.43.46:494][747]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/BP_GroundTileDown' (BP_GroundTileDown.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.02.18-18.43.46:500][747]EditorErrors: New page: Save Output
+[2024.02.18-18.43.46:500][747]EditorErrors: Warning: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset'
+[2024.02.18-18.43.46:500][747]EditorErrors: Warning: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileDown.uasset'
+[2024.02.18-18.43.47:482][747]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2024.02.18-18.43.47:490][747]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPerson/Blueprints/BP_GroundTileDown
+[2024.02.18-18.43.47:490][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 19.4 sec (total: 40.9 sec)
+[2024.02.18-18.43.52:931][385]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.43.52:937][385]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.45.52:181][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-18.45.52:245][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_GroundTile" FILE="../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset" SILENT=true
+[2024.02.18-18.45.52:254][507]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.45.52:254][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.52:756][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.53:257][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.53:757][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.54:257][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.54:758][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.55:259][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.55:760][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.56:261][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.56:762][507]LogFileManager: Warning: MoveFile was unable to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp' (Error Code 32), retrying in .5s...
+[2024.02.18-18.45.57:262][507]LogFileManager: Error: Error moving file '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDA3E60A944A58083F85F068D5BB22E80.tmp'.
+[2024.02.18-18.45.57:262][507]LogSavePackage: Warning: Failed to move '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset' to temp directory
+[2024.02.18-18.45.57:262][507]LogSavePackage: Error: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.45.59:004][507]LogSlate: Window 'Message' being destroyed
+[2024.02.18-18.45.59:010][507]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPerson/Blueprints/BP_GroundTile' (BP_GroundTile.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.02.18-18.45.59:015][507]EditorErrors: New page: Save Output
+[2024.02.18-18.45.59:015][507]EditorErrors: Warning: Error saving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTile.uasset'
+[2024.02.18-18.45.59:926][507]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2024.02.18-18.45.59:933][507]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPerson/Blueprints/BP_GroundTile
+[2024.02.18-18.45.59:933][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.75 sec (total: 48.7 sec)
+[2024.02.18-18.46.02:206][763]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.46.02:211][763]LogSlate: Window 'Message Log' being destroyed
+[2024.02.18-18.46.08:260][306]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.47.55:619][923]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.47.55:860][927]LogEditorTransaction: Undo Add Node
+[2024.02.18-18.47.55:983][929]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.47.56:117][931]LogEditorTransaction: Undo Add Node
+[2024.02.18-18.47.56:225][935]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.47.56:364][948]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.47.56:527][964]LogEditorTransaction: Undo Change Parameter Type
+[2024.02.18-18.47.56:770][993]LogEditorTransaction: Undo Rename Parameter
+[2024.02.18-18.47.57:037][ 25]LogEditorTransaction: Undo Add In Parameter
+[2024.02.18-18.47.57:196][ 44]LogEditorTransaction: Undo Rename Function
+[2024.02.18-18.47.57:521][ 83]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.47.57:707][101]LogEditorTransaction: Undo Remove Graph
+[2024.02.18-18.47.57:867][116]LogEditorTransaction: Undo Create Pin Link
+[2024.02.18-18.47.58:331][168]LogEditorTransaction: Undo Move Nodes
+[2024.02.18-18.47.59:731][332]LogEditorTransaction: Undo Paste clipboard contents
+[2024.02.18-18.48.00:216][341]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.00:668][386]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.01:248][452]LogEditorTransaction: Undo Add Node
+[2024.02.18-18.48.14:416][772]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.48.22:842][597]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.48.25:398][900]LogEditorTransaction: Undo Remove Graph
+[2024.02.18-18.48.32:983][739]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.32:983][739]LogEditorTransaction: Undo Add Node
+[2024.02.18-18.48.33:452][747]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.33:452][747]LogEditorTransaction: Undo Add Node
+[2024.02.18-18.48.33:886][792]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.33:886][792]LogEditorTransaction: Undo Remove Graph
+[2024.02.18-18.48.34:337][842]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.34:337][842]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.48.34:768][891]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.34:768][891]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.48.35:346][958]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.35:346][958]LogEditorTransaction: Undo Create Pin Link
+[2024.02.18-18.48.35:949][ 28]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.35:949][ 28]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.36:103][ 44]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.36:103][ 44]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.36:504][ 90]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.36:504][ 90]LogEditorTransaction: Undo Rename Function
+[2024.02.18-18.48.36:768][ 95]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.36:768][ 95]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.37:019][100]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.37:019][100]LogEditorTransaction: Undo Create Pin Link
+[2024.02.18-18.48.37:319][131]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.37:319][131]LogEditorTransaction: Undo Move Node
+[2024.02.18-18.48.37:485][149]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.37:485][149]LogEditorTransaction: Undo Rename Function
+[2024.02.18-18.48.37:768][181]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.37:768][181]LogEditorTransaction: Undo Paste Function
+[2024.02.18-18.48.38:101][218]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.38:101][218]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.48.38:252][234]Cmd: TRANSACTION UNDO
+[2024.02.18-18.48.38:252][234]LogEditorTransaction: Undo Delete current selection
+[2024.02.18-18.49.03:151][165]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.18-18.49.03:156][165]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.18-18.49.24:132][669]BlueprintLog: New page: Compile BPI_TilesInterface
+[2024.02.18-18.49.24:160][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.18-18.49.48:356][413]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.50.50:752][766]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.50.50:754][766]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Could not find a function named "On Overlap Action" in 'BP_GroundTile_C'.
+Make sure 'BP_GroundTile_C' has been compiled for  On Overlap Action
+[2024.02.18-18.50.50:754][766]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'GetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.50:754][766]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'SetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.50:793][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.18-18.50.53:237][ 42]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.50.53:238][ 42]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'GetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.53:238][ 42]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'SetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.53:271][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.18-18.50.54:452][181]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.50.54:454][181]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'GetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.54:454][181]LogBlueprint: Error: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Graph named 'SetArrowFunction' already exists in 'BP_GroundTile'. Another one cannot be generated from  <None>
+[2024.02.18-18.50.54:486][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.18-18.51.05:454][359]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.51.07:235][456]LogSlate: Window 'Delete Function' being destroyed
+[2024.02.18-18.52.25:408][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.18-18.52.25:409][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.022
+[2024.02.18-18.52.25:410][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_GroundTile] ([2] browsable assets)...
+[2024.02.18-18.52.25:433][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTile.BP_GroundTile]
+[2024.02.18-18.52.25:433][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_GroundTile]
+[2024.02.18-18.52.25:439][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTile_Auto2
+[2024.02.18-18.52.25:440][559]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTile_Auto2B9BF2EBC408A22D74E7EC699965DC0E9.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTile_Auto2.uasset'
+[2024.02.18-18.52.25:441][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_GroundTileDown] ([2] browsable assets)...
+[2024.02.18-18.52.25:450][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTileDown.BP_GroundTileDown]
+[2024.02.18-18.52.25:450][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_GroundTileDown]
+[2024.02.18-18.52.25:457][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTileDown_Auto2
+[2024.02.18-18.52.25:457][559]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileDown_Auto24C01F5DD4275E2DF0DE5AA886E662904.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTileDown_Auto2.uasset'
+[2024.02.18-18.52.25:458][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_GroundTileUp] ([2] browsable assets)...
+[2024.02.18-18.52.25:466][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_GroundTileUp.BP_GroundTileUp]
+[2024.02.18-18.52.25:466][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_GroundTileUp]
+[2024.02.18-18.52.25:521][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTileUp_Auto2
+[2024.02.18-18.52.25:521][559]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BP_GroundTileUp_Auto21F66AFB7484586867CE98A91D05E19BC.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_GroundTileUp_Auto2.uasset'
+[2024.02.18-18.52.25:522][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BPI_TilesInterface] ([2] browsable assets)...
+[2024.02.18-18.52.25:522][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BPI_TilesInterface]
+[2024.02.18-18.52.25:524][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BPI_TilesInterface_Auto2
+[2024.02.18-18.52.25:524][559]LogSavePackage: Moving '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/BPI_TilesInterface_Auto232201D664F6E8309498278994314A851.tmp' to '../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Saved/Autosaves/Game/ThirdPerson/Blueprints/BPI_TilesInterface_Auto2.uasset'
+[2024.02.18-18.52.25:524][559]LogFileHelpers: Auto-saving content packages took 0.115
+[2024.02.18-18.52.33:561][512]BlueprintLog: New page: Compile BPI_TilesInterface
+[2024.02.18-18.52.33:583][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.18-18.52.33:588][512]LogBlueprint: Warning: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Pasted node  GetArrowFunction_1   conflicted with  Event Get Arrow Function  and was replaced as a Custom Event!
+[2024.02.18-18.52.33:588][512]LogBlueprint: Warning: [BP_GroundTile] 'GetArrowFunction' was promoted from an event to a function - it has been replaced by a custom event, which won't trigger unless you call it manually.
+[2024.02.18-18.52.50:202][481]BlueprintLog: New page: Compile BPI_TilesInterface
+[2024.02.18-18.52.50:225][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.18-18.52.50:231][481]LogBlueprint: Warning: [AssetLog] D:\Travaux\Jeux\TempleRunRemake\TempleRun\Content\ThirdPerson\Blueprints\BP_GroundTile.uasset: [Compiler] Pasted node  SetArrowFunction_1   conflicted with  Event Set Arrow Function  and was replaced as a Custom Event!
+[2024.02.18-18.52.50:231][481]LogBlueprint: Warning: [BP_GroundTile] 'SetArrowFunction' was promoted from an event to a function - it has been replaced by a custom event, which won't trigger unless you call it manually.
+[2024.02.18-18.53.59:399][665]BlueprintLog: New page: Compile BP_GroundTile
+[2024.02.18-18.53.59:437][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.02.18-18.54.41:175][600]BlueprintLog: New page: Compile BPI_TilesInterface
+[2024.02.18-18.54.41:199][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.18-18.54.53:569][ 58]LogSlate: Took 0.015429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.18-18.56.07:572][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.18-18.56.09:121][801]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.18-18.56.09:292][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.56.09:292][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.56.09:479][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.18-18.56.09:479][801]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.56.09:479][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.56.09:524][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.18-18.56.09:524][801]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.56.09:524][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.56.09:569][801]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.18-18.56.09:569][801]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-18.56.09:569][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-18.56.09:583][801]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_GroundTileUp.BP_GroundTileUp
+	Asset Type: Blueprint
+[2024.02.18-18.56.11:025][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.02.18-18.56.11:222][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.18-18.56.11:242][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.18-18.56.11:261][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.18-18.56.11:262][801]LogFileManager: Warning: Error deleting file: ../../../../../Travaux/Jeux/TempleRunRemake/TempleRun/Content/ThirdPerson/Blueprints/BP_GroundTileUp.uasset (Error Code 32)
+[2024.02.18-18.56.12:839][983]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.18-18.56.12:848][983]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: None.None
+	Asset Type: Blueprint
+[2024.02.18-18.56.12:849][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input 'None' is not a child of an existing mount point.
+[2024.02.18-18.56.12:860][983]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.02.18-18.56.12:905][983]LogWindows: Error: appError called: Assertion failed: CurObjToReplace != nullptr [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 1011] 
+Cannot replace null references
+
+[2024.02.18-18.56.12:905][983]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2024.02.18-18.56.14:269][983]LogWindows: Error: === Critical error: ===
+[2024.02.18-18.56.14:269][983]LogWindows: Error: 
+[2024.02.18-18.56.14:269][983]LogWindows: Error: Assertion failed: CurObjToReplace != nullptr [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 1011] 
+[2024.02.18-18.56.14:269][983]LogWindows: Error: Cannot replace null references
+[2024.02.18-18.56.14:269][983]LogWindows: Error: 
+[2024.02.18-18.56.14:269][983]LogWindows: Error: 
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff868089ee3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff868089a00 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8680891ae UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff86755dd86 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff867959bbf UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff86794f474 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8cae23f66 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8cae46e8f UnrealEditor-Slate.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8cabbdfcd UnrealEditor-Slate.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8cac15ab1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8cac0b709 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8f3ae0921 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8f3ac6751 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8f3ae33c8 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff8f3abff43 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.02.18-18.56.14:269][983]LogWindows: Error: [Callstack] 0x00007ff96f37ef75 USER32.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff96f37e9ee USER32.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff919c97f09 InkObj.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff968151028 atlthunk.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff96f37ef75 USER32.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff96f37e69d USER32.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff8f3ae4856 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff71613750b UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff71615473c UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff71615482a UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff7161574f0 UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff71616a4c4 UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff71616d996 UnrealEditor.exe!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff96def7344 KERNEL32.DLL!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: [Callstack] 0x00007ff96f5a26b1 ntdll.dll!UnknownFunction []
+[2024.02.18-18.56.14:270][983]LogWindows: Error: 
